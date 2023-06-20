@@ -1,6 +1,11 @@
 # world_time
 
-A new Flutter project.
+group based world time project.
+Lead Project: M. Fahri Ilman
+Member: 
+-M. Demas Farand Kalya
+-Christopher Jodi S.
+-Zen Aurel
 
 ## Getting Started
 
